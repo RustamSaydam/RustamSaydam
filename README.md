@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rustam Saidam</h1>
 <h3 align="center">I'm Backend Developer.</h3>
 
-![HelloWorld](https://github.com/RustamSaydam/RustamSaydam/blob/master/notreal_kosmos_photo1%20(1).jpeg)
+![HelloWorld](https://github.com/RustamSaydam/RustamSaydam/blob/master/notreal_kosmos_photo1%20(1).jpeg?raw=true)
 ￼
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rustamsaydam&label=Profile%20views&color=0e75b6&style=flat" alt="rustamsaydam" /> </p>
