@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rustam Saidam</h1>
-<h3 align="center">I'm Backend Developer.</h3>
+<h3 align="center">I'm QA Engineer Automation and Backen developer.</h3>
 
 ![HelloWorld](https://github.com/RustamSaydam/RustamSaydam/blob/master/notreal_kosmos_photo1%20(1).jpeg?raw=true)
 ￼
