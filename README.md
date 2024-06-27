@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [Look at my repositories](Look at my repositories)
 
-- 💬 Ask me about **Spring, Java, Docker, PostgreSQL/MySQL/H2, JUnit Test, git,**
+- 💬 Ask me about **Spring, Java, Docker, PostgreSQL/MySQL/H2, JUnit Test, git + Jenkins, Rest Assured, Allure report, Selenide **
 
 - 📫 How to reach me **rustamsaydam@icloud.com**
 
